@@ -1,1 +1,1 @@
-print 'keg-bot'
+print('keg-bot')
